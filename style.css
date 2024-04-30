@@ -96,6 +96,10 @@ body{
     transition: 0.2s all linear;
 }
 
+.card h5{
+    margin-top: -10px;
+}
+
 .heading {
     text-align: center;
     margin-top: 90px;
