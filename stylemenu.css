@@ -165,7 +165,7 @@ body{
 }
 
 .saran{
-    max-width: 1040px;
+    max-width: 1048px;
     width: 100%;
     color: #fff;
     background-color: rgba(110, 123, 196, 0.221);
@@ -174,7 +174,7 @@ body{
     border-radius: 5px;
     box-shadow: 0 5px 5px rgba(0, 0, 0, 0.15);
     top: 50%;
-    left: 50%;
+    left: 48%;
     transform: translate(-50%, -50%);
     margin-top: -200px;
 }
