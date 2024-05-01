@@ -155,6 +155,11 @@ body{
     transition: 0.18s all linear;
 }
 
+.customer-container .box:not(:hover) {
+    background: white;
+    transition: 0.12s all linear;
+}
+
 .footer{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(240px, auto));
