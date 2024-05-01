@@ -150,6 +150,11 @@ body{
     transition: 0.18s all linear;
 }
 
+.card:not(:hover) {
+    transition: transform 0.3s ease;
+    transform: scale(1);
+}
+
 .card-title {
     color: white;
     font-weight: bold;
