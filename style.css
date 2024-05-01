@@ -195,6 +195,11 @@ body{
     transition: 0.2s;
 }
 
+.sosmed a .bx:not(:hover) {
+    background: #e1f0fbe0;
+    transition: 0.15s all linear;
+}
+
 .footer-box h3{
     font-weight: 600;
     margin-bottom: 10px;
